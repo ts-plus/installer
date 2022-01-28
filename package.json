@@ -5,7 +5,7 @@
   "author": "Michael Arnaldi <arnaldimichael@gmail.com>",
   "license": "MIT",
   "bin": {
-    "tsplus-install": "./dist/install.js"
+    "tsplus-install": "./bin/tsplus-install"
   },
   "publishConfig": {
     "access": "public"
