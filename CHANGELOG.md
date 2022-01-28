@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.3
+
+### Patch Changes
+
+- [`4612a2e`](https://github.com/ts-plus/installer/commit/4612a2e624d2aa62516f1c2369ab4cc1885efb4d) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix install script
+
 ## 0.0.2
 
 ### Patch Changes
