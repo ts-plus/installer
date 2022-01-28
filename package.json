@@ -1,11 +1,15 @@
 {
   "name": "@tsplus/installer",
   "version": "0.0.1",
+  "private": "false",
   "repository": "https://github.com/ts-plus/installer.git",
   "author": "Michael Arnaldi <arnaldimichael@gmail.com>",
   "license": "MIT",
   "bin": {
     "tsplus-install": "./dist/install.js"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "scripts": {
     "build": "tsc -b tsconfig.json",
