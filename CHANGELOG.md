@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.5
+
+### Patch Changes
+
+- [`d1391a2`](https://github.com/ts-plus/installer/commit/d1391a2e395e73d1d9720012d1b91eb1d944c242) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Allow variable declaration getters: https://github.com/ts-plus/typescript/pull/2
+
 ## 0.0.4
 
 ### Patch Changes
