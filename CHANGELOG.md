@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.4
+
+### Patch Changes
+
+- [`3485502`](https://github.com/ts-plus/installer/commit/3485502b3113813a277ba5a42f8fedc426d6b3c7) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Pip specific commit
+
 ## 0.0.3
 
 ### Patch Changes
