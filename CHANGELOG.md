@@ -1,5 +1,13 @@
 # @tsplus/installer
 
+## 0.0.6
+
+### Patch Changes
+
+- [`d8da3b3`](https://github.com/ts-plus/installer/commit/d8da3b390c8ab0c5db501062535c4f8b6809b870) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fixes https://github.com/ts-plus/typescript/issues/1 by https://github.com/0x706b
+
+* [`d8da3b3`](https://github.com/ts-plus/installer/commit/d8da3b390c8ab0c5db501062535c4f8b6809b870) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fixes https://github.com/ts-plus/typescript/issues/3 by https://github.com/0x706b
+
 ## 0.0.5
 
 ### Patch Changes
