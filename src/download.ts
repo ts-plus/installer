@@ -2,7 +2,6 @@ import * as https from 'https';
 import * as fs from 'fs';
 import * as rimraf from 'rimraf';
 import * as path from 'path';
-import * as tar from 'tar';
 import * as mkdirp from 'mkdirp';
 
 const tgz = "https://raw.githubusercontent.com/ts-plus/typescript/main/dev/typescript-4.6.0-ets.20220128.tgz"
