@@ -1,5 +1,13 @@
 # @tsplus/installer
 
+## 0.0.8
+
+### Patch Changes
+
+- [`55a5c57`](https://github.com/ts-plus/installer/commit/55a5c573a0e234ff3ef1fec0a3672164bf50683c) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Improve language services (https://github.com/ts-plus/typescript/pull/15)
+
+* [`55a5c57`](https://github.com/ts-plus/installer/commit/55a5c573a0e234ff3ef1fec0a3672164bf50683c) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Implement "tailRec" annotation (https://github.com/ts-plus/typescript/pull/15)
+
 ## 0.0.7
 
 ### Patch Changes
