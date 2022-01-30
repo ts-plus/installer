@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.7
+
+### Patch Changes
+
+- [`b99648c`](https://github.com/ts-plus/installer/commit/b99648c2c2844b6cb396d5c7f38ed0cde8b3a98c) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Rename @ets to @tsplus (https://github.com/ts-plus/typescript/pull/14)
+
 ## 0.0.6
 
 ### Patch Changes
