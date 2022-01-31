@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.10
+
+### Patch Changes
+
+- [`98a5998`](https://github.com/ts-plus/installer/commit/98a59988d818d45de350325a45d4d41029b3789b) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Potentially fix excessive widening of lazy params
+
 ## 0.0.9
 
 ### Patch Changes
