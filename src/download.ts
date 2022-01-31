@@ -4,7 +4,7 @@ import * as mkdirp from "mkdirp"
 import * as path from "path"
 import * as rimraf from "rimraf"
 
-const hash = "a3839f94dcdb066f9cf87fdf5de4e429802f35d9"
+const hash = "adf109d37c73cb4cb6bcaf5683dacb4cab379f71"
 const version = "4.6.0-ets.20220131"
 const tgz = `https://raw.githubusercontent.com/ts-plus/typescript/${hash}/dev/typescript-${version}.tgz`
 
