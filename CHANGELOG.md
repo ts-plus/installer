@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.9
+
+### Patch Changes
+
+- [`32c7fa1`](https://github.com/ts-plus/installer/commit/32c7fa12c4e350e0ba17a93410405269e399c5ef) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix getter symbol error and improve checking of tailRec (https://github.com/ts-plus/typescript/pull/21)
+
 ## 0.0.8
 
 ### Patch Changes
