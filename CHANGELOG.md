@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.13
+
+### Patch Changes
+
+- [`17eb1dc`](https://github.com/ts-plus/installer/commit/17eb1dcc53a826b220c456c0a9261c3c23a36ce6) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Disallow values of type any in lazyfunction arguments (https://github.com/ts-plus/typescript/pull/28)
+
 ## 0.0.12
 
 ### Patch Changes
