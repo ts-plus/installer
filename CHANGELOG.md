@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.14
+
+### Patch Changes
+
+- [`422d1aa`](https://github.com/ts-plus/installer/commit/422d1aa437f920661bc072a0be3db94f862baa20) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix operator overloading
+
 ## 0.0.13
 
 ### Patch Changes
