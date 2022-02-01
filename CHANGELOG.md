@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.11
+
+### Patch Changes
+
+- [`ff2dd3e`](https://github.com/ts-plus/installer/commit/ff2dd3eea636e9311cd15f63724f557e75da6b46) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Extend checker logic to better handle lazy arguments
+
 ## 0.0.10
 
 ### Patch Changes
