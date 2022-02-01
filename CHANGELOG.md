@@ -1,5 +1,13 @@
 # @tsplus/installer
 
+## 0.0.12
+
+### Patch Changes
+
+- [`20d7f7c`](https://github.com/ts-plus/installer/commit/20d7f7c59b80a34986a16879a6152e5a19e8303a) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Support multiple tsplus tags per definiton (https://github.com/ts-plus/typescript/pull/25)
+
+* [`20d7f7c`](https://github.com/ts-plus/installer/commit/20d7f7c59b80a34986a16879a6152e5a19e8303a) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Inherit extensions for members of a union type (https://github.com/ts-plus/typescript/pull/27)
+
 ## 0.0.11
 
 ### Patch Changes
