@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.15
+
+### Patch Changes
+
+- [`eb623f1`](https://github.com/ts-plus/installer/commit/eb623f10fb5cd4c5fcd5e8db7099b3f7ec3088d4) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Remove leftover from old lazy argument management
+
 ## 0.0.14
 
 ### Patch Changes
