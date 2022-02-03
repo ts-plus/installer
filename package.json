@@ -11,9 +11,10 @@
     "access": "public"
   },
   "scripts": {
-    "build": "tsc -b tsconfig.json && ./prepack.sh",
+    "build": "tsc -b tsconfig.json",
     "changeset": "changeset",
-    "release": "changeset publish"
+    "release": "changeset publish",
+    "prepack": "./prepack.sh"
   },
   "packageManager": "yarn@3.1.1",
   "devDependencies": {
