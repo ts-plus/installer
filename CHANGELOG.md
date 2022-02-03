@@ -1,5 +1,13 @@
 # @tsplus/installer
 
+## 0.0.19
+
+### Patch Changes
+
+- [`4b85e4f`](https://github.com/ts-plus/installer/commit/4b85e4faa225fc32d9fa3a4823a61fd6ed3e4933) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Support extending indexed access expressions (https://github.com/ts-plus/typescript/pull/38)
+
+* [`3a28a70`](https://github.com/ts-plus/installer/commit/3a28a70d38f6c53ed51c489585d9c93063277c34) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Revert change on operators
+
 ## 0.0.18
 
 ### Patch Changes
