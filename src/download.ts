@@ -4,8 +4,8 @@ import * as mkdirp from "mkdirp"
 import * as path from "path"
 import * as rimraf from "rimraf"
 
-const hash = "3509194fb3d624dbed524a9ef34ac5cf29a735a9"
-const version = "4.6.0-ets.20220201"
+const hash = "bd91dcff21785c22a6d64a5758c7c75a41ebdca1"
+const version = "4.6.0-ets.20220203"
 const tgz = `https://raw.githubusercontent.com/ts-plus/typescript/${hash}/dev/typescript-${version}.tgz`
 
 const target = path.join(__dirname, "..", "/compiler")
