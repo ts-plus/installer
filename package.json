@@ -11,8 +11,7 @@
     "access": "public"
   },
   "scripts": {
-    "build": "tsc -b tsconfig.json",
-    "prepack": "./prepack.sh",
+    "build": "tsc -b tsconfig.json && ./prepack.sh",
     "changeset": "changeset",
     "release": "changeset publish"
   },
