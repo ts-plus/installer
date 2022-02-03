@@ -1,5 +1,13 @@
 # @tsplus/installer
 
+## 0.0.16
+
+### Patch Changes
+
+- [`fd34347`](https://github.com/ts-plus/installer/commit/fd34347a1116783e5d2509e27deb9d37189c122d) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Support for instantiated signature in quickinfo (https://github.com/ts-plus/typescript/pull/33)
+
+* [`fd34347`](https://github.com/ts-plus/installer/commit/fd34347a1116783e5d2509e27deb9d37189c122d) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Support goToDefinition for operators (https://github.com/ts-plus/typescript/pull/33)
+
 ## 0.0.15
 
 ### Patch Changes
