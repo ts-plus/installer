@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.18
+
+### Patch Changes
+
+- [`0861dc0`](https://github.com/ts-plus/installer/commit/0861dc026345e2324649a6af4f83906de97b2a36) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Improve type checking of overloaded operators (https://github.com/ts-plus/typescript/pull/37)
+
 ## 0.0.17
 
 ### Patch Changes
