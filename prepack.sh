@@ -10,4 +10,4 @@ npm install
 sh pack.sh
 rm -rf ../../compiler
 mkdir ../../compiler
-mv typescript*.tgz ../compiler/typescript.tgz
+mv typescript*.tgz ../../compiler/typescript.tgz
