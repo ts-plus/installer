@@ -12,7 +12,7 @@
   },
   "scripts": {
     "build": "tsc -b tsconfig.json",
-    "prepack": "ts-node src/download.ts",
+    "prepack": "./prepack.sh",
     "changeset": "changeset",
     "release": "changeset publish"
   },
