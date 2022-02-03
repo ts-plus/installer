@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.17
+
+### Patch Changes
+
+- [`da31e07`](https://github.com/ts-plus/installer/commit/da31e07dede7ffa399ebee3be5c00097ea4cf8cb) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Disallow resolution of fluent extensions outside of a call (https://github.com/ts-plus/typescript/pull/36)
+
 ## 0.0.16
 
 ### Patch Changes
