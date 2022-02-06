@@ -1,5 +1,15 @@
 # @tsplus/installer
 
+## 0.0.20
+
+### Patch Changes
+
+- [`a1e743f`](https://github.com/ts-plus/installer/commit/a1e743f1b1ca445f2d9bfd8d3b270acd47ed150b) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Update with commits from head.
+
+* [`7618aff`](https://github.com/ts-plus/installer/commit/7618aff277bb8a3d34499fd4c17da455aec52646) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Multimethods (https://github.com/ts-plus/typescript/pull/17)
+
+- [`605d207`](https://github.com/ts-plus/installer/commit/605d207e546b732e3af4a73f04f8b019f3d88aeb) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Support type annotation in class declarations (https://github.com/ts-plus/typescript/pull/39)
+
 ## 0.0.19
 
 ### Patch Changes
