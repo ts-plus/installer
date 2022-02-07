@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.21
+
+### Patch Changes
+
+- [`d89d664`](https://github.com/ts-plus/installer/commit/d89d6648685c0bea287fc367a27e6c8876273889) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Handle reassigned functions as functions (https://github.com/ts-plus/typescript/pull/41)
+
 ## 0.0.20
 
 ### Patch Changes
