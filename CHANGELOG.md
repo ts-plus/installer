@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.22
+
+### Patch Changes
+
+- [`27734cc`](https://github.com/ts-plus/installer/commit/27734cc92549b3cc888ecdd25c409fefd023abef) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Defer resolution of static extensions (https://github.com/ts-plus/typescript/pull/43)
+
 ## 0.0.21
 
 ### Patch Changes
