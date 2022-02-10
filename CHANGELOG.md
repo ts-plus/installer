@@ -1,5 +1,15 @@
 # @tsplus/installer
 
+## 0.0.23
+
+### Patch Changes
+
+- [`5da0d05`](https://github.com/ts-plus/installer/commit/5da0d0576b60564584066ce8a50ea18c92c68cf3) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Resolve static extensions in getExtensions (https://github.com/ts-plus/typescript/pull/45)
+
+* [`5da0d05`](https://github.com/ts-plus/installer/commit/5da0d0576b60564584066ce8a50ea18c92c68cf3) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Implement Pipeable macro (https://github.com/ts-plus/typescript/pull/44, https://github.com/ts-plus/typescript/pull/45)
+
+- [`fd0a433`](https://github.com/ts-plus/installer/commit/fd0a4334879357e30a922d10027c80ca457ef4d9) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Avoid pollution of default es5 lib (https://github.com/ts-plus/typescript/pull/48)
+
 ## 0.0.22
 
 ### Patch Changes
