@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.24
+
+### Patch Changes
+
+- [`ce53e3a`](https://github.com/ts-plus/installer/commit/ce53e3a33618762f626b54f60b0ccd2f80885780) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Add diagnostics to extensions, Fix pipeable goToDefinition, Enable Support for extensions for generics with base constraints, Add suport for companion objects (https://github.com/ts-plus/typescript/pull/53)
+
 ## 0.0.23
 
 ### Patch Changes
