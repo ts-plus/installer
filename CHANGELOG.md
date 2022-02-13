@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.25
+
+### Patch Changes
+
+- [`75b71b6`](https://github.com/ts-plus/installer/commit/75b71b66e72e86c0be1b68c7910c779b1bc608be) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix symbol resolution for companion object extensions (https://github.com/ts-plus/typescript/pull/54)
+
 ## 0.0.24
 
 ### Patch Changes
