@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.26
+
+### Patch Changes
+
+- [`cfdcbe2`](https://github.com/ts-plus/installer/commit/cfdcbe21716a98758a6e56733d738064f1a96f0f) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix companion object extensions (https://github.com/ts-plus/typescript/pull/55)
+
 ## 0.0.25
 
 ### Patch Changes
