@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.27
+
+### Patch Changes
+
+- [`c50896c`](https://github.com/ts-plus/installer/commit/c50896c12284a0938e384a477cd6a55513a9350f) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix super call expression in combo with \_\_call (https://github.com/ts-plus/typescript/pull/56)
+
 ## 0.0.26
 
 ### Patch Changes
