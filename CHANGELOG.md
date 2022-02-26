@@ -1,5 +1,15 @@
 # @tsplus/installer
 
+## 0.0.28
+
+### Patch Changes
+
+- [`09a6f58`](https://github.com/ts-plus/installer/commit/09a6f58ba3afefe98fe25c8d147dee3f83797257) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Defer resolution of fluent extensions (https://github.com/ts-plus/typescript/pull/64)
+
+* [`09a6f58`](https://github.com/ts-plus/installer/commit/09a6f58ba3afefe98fe25c8d147dee3f83797257) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Add Identity and Remove macros (https://github.com/ts-plus/typescript/pull/57)
+
+- [`09a6f58`](https://github.com/ts-plus/installer/commit/09a6f58ba3afefe98fe25c8d147dee3f83797257) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Optimize Pipeable (https://github.com/ts-plus/typescript/pull/57)
+
 ## 0.0.27
 
 ### Patch Changes
