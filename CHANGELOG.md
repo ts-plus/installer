@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.29
+
+### Patch Changes
+
+- [`0f15b9d`](https://github.com/ts-plus/installer/commit/0f15b9d884315176020906fa5e947f068bcbd230) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Improve deferred resolution of fluent methods
+
 ## 0.0.28
 
 ### Patch Changes
