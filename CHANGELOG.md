@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.30
+
+### Patch Changes
+
+- [`e4b70ec`](https://github.com/ts-plus/installer/commit/e4b70ec656e39a633339f1468008cee1783ab183) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix deferred resolution of fluent extension, avoid copying instantiations (https://github.com/ts-plus/typescript/pull/68)
+
 ## 0.0.29
 
 ### Patch Changes
