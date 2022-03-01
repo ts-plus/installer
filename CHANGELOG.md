@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.31
+
+### Patch Changes
+
+- [`589f855`](https://github.com/ts-plus/installer/commit/589f85584230c1c0bac10ce85bb7a55293d0fcbe) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix resolution conflict for class based static-fluent extensions (https://github.com/ts-plus/typescript/pull/70)
+
 ## 0.0.30
 
 ### Patch Changes
