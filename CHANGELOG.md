@@ -1,5 +1,13 @@
 # @tsplus/installer
 
+## 0.0.32
+
+### Patch Changes
+
+- [`469a4f9`](https://github.com/ts-plus/installer/commit/469a4f914c8eb573cdfe5096f3f3eb254fd4eb8f) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Enable extensions for intrinsic types (https://github.com/ts-plus/typescript/pull/74)
+
+* [`469a4f9`](https://github.com/ts-plus/installer/commit/469a4f914c8eb573cdfe5096f3f3eb254fd4eb8f) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix Pipeable with no generics (https://github.com/ts-plus/typescript/pull/73)
+
 ## 0.0.31
 
 ### Patch Changes
