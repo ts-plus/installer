@@ -1,5 +1,13 @@
 # @tsplus/installer
 
+## 0.0.33
+
+### Patch Changes
+
+- [`ddaa903`](https://github.com/ts-plus/installer/commit/ddaa90306fe7d92fe95924c9d83018a62cb743a2) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Implement extension inheritance (https://github.com/ts-plus/typescript/pull/75)
+
+* [`ddaa903`](https://github.com/ts-plus/installer/commit/ddaa90306fe7d92fe95924c9d83018a62cb743a2) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Add diagnostic for fluent function having a tuple as first param (https://github.com/ts-plus/typescript/pull/76)
+
 ## 0.0.32
 
 ### Patch Changes
