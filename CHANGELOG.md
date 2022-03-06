@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.34
+
+### Patch Changes
+
+- [`418fb3c`](https://github.com/ts-plus/installer/commit/418fb3ce6892d6c974b2fb103ca68abbecc10194) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix explicit rest parameter check (https://github.com/ts-plus/typescript/pull/77)
+
 ## 0.0.33
 
 ### Patch Changes
