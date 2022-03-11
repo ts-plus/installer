@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.35
+
+### Patch Changes
+
+- [`a594ab7`](https://github.com/ts-plus/installer/commit/a594ab7548b00391815e57b277b0784f785132a0) Thanks [@0x706b](https://github.com/0x706b)! - add inheritance for unions
+
 ## 0.0.34
 
 ### Patch Changes
