@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.36
+
+### Patch Changes
+
+- [`773ffb2`](https://github.com/ts-plus/installer/commit/773ffb22c24bb937d41dc2d5eb6a53bee3aeb34c) Thanks [@0x706b](https://github.com/0x706b)! - change version string to tsplus; allow nightly features
+
 ## 0.0.35
 
 ### Patch Changes
