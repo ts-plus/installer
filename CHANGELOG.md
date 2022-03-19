@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.39
+
+### Patch Changes
+
+- [`a9874ca`](https://github.com/ts-plus/installer/commit/a9874ca3bfbd2ff9aac8b24bd912d19c186d9cf1) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix: unassignable unique symbol for static extensions (https://github.com/ts-plus/typescript/pull/88)
+
 ## 0.0.38
 
 ### Patch Changes
