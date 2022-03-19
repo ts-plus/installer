@@ -1,5 +1,13 @@
 # @tsplus/installer
 
+## 0.0.38
+
+### Patch Changes
+
+- [`4d0d4ce`](https://github.com/ts-plus/installer/commit/4d0d4ce62414ead0def38fecbcf7aab9e2390e5f) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix: give local extensions unique names (https://github.com/ts-plus/typescript/pull/86)
+
+* [`4d0d4ce`](https://github.com/ts-plus/installer/commit/4d0d4ce62414ead0def38fecbcf7aab9e2390e5f) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix: mark fluent and getter left nodes as referenced (https://github.com/ts-plus/typescript/pull/87)
+
 ## 0.0.37
 
 ### Patch Changes
