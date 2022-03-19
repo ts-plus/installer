@@ -1,5 +1,15 @@
 # @tsplus/installer
 
+## 0.0.37
+
+### Patch Changes
+
+- [`df8995c`](https://github.com/ts-plus/installer/commit/df8995c801890a14b53b67d4fe21cccd668b4faf) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Support declaring operators with variable statements (https://github.com/ts-plus/typescript/pull/83)
+
+* [`df8995c`](https://github.com/ts-plus/installer/commit/df8995c801890a14b53b67d4fe21cccd668b4faf) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix `goToDefinition` for fluent extension expressions (https://github.com/ts-plus/typescript/pull/85)
+
+- [`df8995c`](https://github.com/ts-plus/installer/commit/df8995c801890a14b53b67d4fe21cccd668b4faf) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Restrict fluent extensions to assignable targets (https://github.com/ts-plus/typescript/pull/82)
+
 ## 0.0.36
 
 ### Patch Changes
