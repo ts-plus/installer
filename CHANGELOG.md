@@ -1,5 +1,17 @@
 # @tsplus/installer
 
+## 0.0.41
+
+### Patch Changes
+
+- [`a38bc9c`](https://github.com/ts-plus/installer/commit/a38bc9c677ba713554f929aecea408451c73d5e5) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix unique local names (https://github.com/ts-plus/typescript/pull/92)
+
+* [`a38bc9c`](https://github.com/ts-plus/installer/commit/a38bc9c677ba713554f929aecea408451c73d5e5) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Allow multiple definitions for operators (https://github.com/ts-plus/typescript/pull/92)
+
+- [`a38bc9c`](https://github.com/ts-plus/installer/commit/a38bc9c677ba713554f929aecea408451c73d5e5) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Resolve fluent extensions by inheritance (https://github.com/ts-plus/typescript/pull/92)
+
+* [`a38bc9c`](https://github.com/ts-plus/installer/commit/a38bc9c677ba713554f929aecea408451c73d5e5) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Improve Type Unification (https://github.com/ts-plus/typescript/pull/92)
+
 ## 0.0.40
 
 ### Patch Changes
