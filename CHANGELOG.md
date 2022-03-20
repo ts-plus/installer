@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.42
+
+### Patch Changes
+
+- [`5145b8a`](https://github.com/ts-plus/installer/commit/5145b8ace45dbfaf58d578365ab23131563a3de9) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Enable priority tag for fluent methods and operators (https://github.com/ts-plus/typescript/pull/91)
+
 ## 0.0.41
 
 ### Patch Changes
