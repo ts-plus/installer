@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.40
+
+### Patch Changes
+
+- [`fdb2054`](https://github.com/ts-plus/installer/commit/fdb2054891b76d3f5c82dcb5bf923c6f55e84dca) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix: transform definition to unique name (https://github.com/ts-plus/typescript/pull/90)
+
 ## 0.0.39
 
 ### Patch Changes
