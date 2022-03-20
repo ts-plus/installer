@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.43
+
+### Patch Changes
+
+- [`7702fc7`](https://github.com/ts-plus/installer/commit/7702fc7fd37def2cfa29d883699040e76874e1ba) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix: revert temporarily implicit inheritance (https://github.com/ts-plus/typescript/pull/93)
+
 ## 0.0.42
 
 ### Patch Changes
