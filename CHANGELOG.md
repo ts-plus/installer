@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.44
+
+### Patch Changes
+
+- [`afce361`](https://github.com/ts-plus/installer/commit/afce3616363bbdd6d1033041fed23dd51ac4acf6) Thanks [@0x706b](https://github.com/0x706b)! - Fix inheritance from identically-named symbols
+
 ## 0.0.43
 
 ### Patch Changes
