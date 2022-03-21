@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.45
+
+### Patch Changes
+
+- [`79b3a98`](https://github.com/ts-plus/installer/commit/79b3a9899ce6d51616f6fd90b8e8a07687045255) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix in-order inheritance (https://github.com/ts-plus/typescript/pull/96)
+
 ## 0.0.44
 
 ### Patch Changes
