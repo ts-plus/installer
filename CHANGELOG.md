@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.46
+
+### Patch Changes
+
+- [`86ffba7`](https://github.com/ts-plus/installer/commit/86ffba7f9d9d44d2dcb184307c3e454b95092448) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Use cached metadata in transformers (https://github.com/ts-plus/typescript/pull/98)
+
 ## 0.0.45
 
 ### Patch Changes
