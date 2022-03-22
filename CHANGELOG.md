@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.48
+
+### Patch Changes
+
+- [`c438eab`](https://github.com/ts-plus/installer/commit/c438eabba948cbfc0437db979b8cfa20f483de07) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Rebase from Microsoft/TypeScript to include Optional Variance Annotations (https://github.com/microsoft/TypeScript/pull/48240)
+
 ## 0.0.47
 
 ### Patch Changes
