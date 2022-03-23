@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.51
+
+### Patch Changes
+
+- [`a20b09f`](https://github.com/ts-plus/installer/commit/a20b09f91a33594f20e656618d4b4eb0c56d5d06) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix undefined symbol (https://github.com/ts-plus/typescript/pull/102)
+
 ## 0.0.50
 
 ### Patch Changes
