@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.50
+
+### Patch Changes
+
+- [`d4574d0`](https://github.com/ts-plus/installer/commit/d4574d0b41192e3a7486259d3e0d832dcbedc90e) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Global Fluent and Getter Extensions and Pipe delegation to stdlib (https://github.com/ts-plus/typescript/pull/101)
+
 ## 0.0.49
 
 ### Patch Changes
