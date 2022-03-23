@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.52
+
+### Patch Changes
+
+- [`33c12f1`](https://github.com/ts-plus/installer/commit/33c12f158edce401c4e1e82088cc64b5eb4b1492) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Support pipe-like operators (https://github.com/ts-plus/typescript/pull/103)
+
 ## 0.0.51
 
 ### Patch Changes
