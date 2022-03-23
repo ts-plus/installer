@@ -1,5 +1,13 @@
 # @tsplus/installer
 
+## 0.0.49
+
+### Patch Changes
+
+- [`476c645`](https://github.com/ts-plus/installer/commit/476c645cefeefebb36fa9c6915cd8e2b2308d818) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix QuickInfo for extensions on primitive types (https://github.com/ts-plus/typescript/pull/100)
+
+* [`476c645`](https://github.com/ts-plus/installer/commit/476c645cefeefebb36fa9c6915cd8e2b2308d818) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Avoid marking as used companion objects when invoked via \_\_call (https://github.com/ts-plus/typescript/pull/99)
+
 ## 0.0.48
 
 ### Patch Changes
