@@ -1,5 +1,12 @@
 # @tsplus/installer
 
+## 0.0.53
+
+### Patch Changes
+
+- [`83e60c5`](https://github.com/ts-plus/installer/commit/83e60c53a1a64867c2d030a32c9707d6eae63279) Thanks [@0x706b](https://github.com/0x706b)! - Fix operator JSDoc behavior
+  Add diagnostic for non-exported extensions
+
 ## 0.0.52
 
 ### Patch Changes
