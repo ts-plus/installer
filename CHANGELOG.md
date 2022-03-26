@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.54
+
+### Patch Changes
+
+- [`2c756e6`](https://github.com/ts-plus/installer/commit/2c756e63c316ae40353f48aa9826765556118a2e) Thanks [@0x706b](https://github.com/0x706b)! - Fix duplicated JSDoc on pipeable quick info
+
 ## 0.0.53
 
 ### Patch Changes
