@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.56
+
+### Patch Changes
+
+- [`2267b33`](https://github.com/ts-plus/installer/commit/2267b339c5d6a68e3555ceef3c7e02e31310807a) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix incremental mode and global imports (https://github.com/ts-plus/typescript/pull/110)
+
 ## 0.0.55
 
 ### Patch Changes
