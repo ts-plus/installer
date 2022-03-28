@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.57
+
+### Patch Changes
+
+- [`111f71a`](https://github.com/ts-plus/installer/commit/111f71a9729ebd5e812c034b067fe206a31b9e77) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fig Global Imports by meaning resolution (https://github.com/ts-plus/typescript/pull/111)
+
 ## 0.0.56
 
 ### Patch Changes
