@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.59
+
+### Patch Changes
+
+- [`dfd7164`](https://github.com/ts-plus/installer/commit/dfd7164684adf7c74b3f72a2608abe89c527e42d) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Add global import only when no equivalently named symbols are defined (https://github.com/ts-plus/typescript/pull/113)
+
 ## 0.0.58
 
 ### Patch Changes
