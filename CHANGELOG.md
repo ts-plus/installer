@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.55
+
+### Patch Changes
+
+- [`4ef5fea`](https://github.com/ts-plus/installer/commit/4ef5fea69cb2254213a8173d97d788bc39238705) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Feature: Global Imports (https://github.com/ts-plus/typescript/pull/107)
+
 ## 0.0.54
 
 ### Patch Changes
