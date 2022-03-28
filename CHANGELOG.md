@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.58
+
+### Patch Changes
+
+- [`8c4f438`](https://github.com/ts-plus/installer/commit/8c4f43812f944b76a918ab1f673482beba718339) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Eagerly collect global imports (https://github.com/ts-plus/typescript/pull/112)
+
 ## 0.0.57
 
 ### Patch Changes
