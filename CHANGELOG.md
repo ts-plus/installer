@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.62
+
+### Patch Changes
+
+- [`61d1ddf`](https://github.com/ts-plus/installer/commit/61d1ddf8e00d9658c685ee2ae485ac1b07e5c05f) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Improve auto suggestions for global imports (https://github.com/ts-plus/typescript/pull/118)
+
 ## 0.0.61
 
 ### Patch Changes
