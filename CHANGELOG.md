@@ -1,5 +1,13 @@
 # @tsplus/installer
 
+## 0.0.63
+
+### Patch Changes
+
+- [`5c4a594`](https://github.com/ts-plus/installer/commit/5c4a5947f78953431c4f6beb1098358d96470bdf) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Remove duplicated compiler copy
+
+* [`9acce57`](https://github.com/ts-plus/installer/commit/9acce57ab0d5adf60ef4fec4eada7ffdc16435d1) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Enable \_\_call extensions via fluent methods (https://github.com/ts-plus/typescript/pull/119)
+
 ## 0.0.62
 
 ### Patch Changes
