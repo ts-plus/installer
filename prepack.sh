@@ -1,5 +1,5 @@
 #!/bin/sh
-COMMIT="4bc0f00220ae669f9fc19ec19c639e24b0b9df25"
+COMMIT="24c24e59b4c581f41fe386787bf0241f63677e64"
 rm -rf tmp
 mkdir tmp
 cd tmp
