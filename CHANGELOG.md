@@ -1,5 +1,15 @@
 # @tsplus/installer
 
+## 0.0.61
+
+### Patch Changes
+
+- [`ba0077f`](https://github.com/ts-plus/installer/commit/ba0077f38b47b0a2e5f5dd903d1db7155eadd2c0) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Collect extensions from intersection types (https://github.com/ts-plus/typescript/pull/116)
+
+* [`ba0077f`](https://github.com/ts-plus/installer/commit/ba0077f38b47b0a2e5f5dd903d1db7155eadd2c0) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Improve collection of operators (https://github.com/ts-plus/typescript/pull/117)
+
+- [`ba0077f`](https://github.com/ts-plus/installer/commit/ba0077f38b47b0a2e5f5dd903d1db7155eadd2c0) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Support extensions in tuple types (https://github.com/ts-plus/typescript/pull/114)
+
 ## 0.0.60
 
 ### Patch Changes
