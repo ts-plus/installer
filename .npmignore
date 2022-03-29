@@ -2,6 +2,7 @@ node_modules
 .vscode
 .yarn
 src
+tmp
 yarn.lock
 tsconfig.json
 .github
