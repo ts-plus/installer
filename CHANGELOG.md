@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.60
+
+### Patch Changes
+
+- [`6641c77`](https://github.com/ts-plus/installer/commit/6641c77ffc6d63471cbc070ce0157e8a8aaa06ec) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Improve initialization ordering for global imports (https://github.com/ts-plus/typescript/pull/115)
+
 ## 0.0.59
 
 ### Patch Changes
