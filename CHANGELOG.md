@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.65
+
+### Patch Changes
+
+- [`cd0fd2b`](https://github.com/ts-plus/installer/commit/cd0fd2ba7c85c0390d4e0e5f78268705bd14dec5) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Revert forced module in favour of the usage of "moduleDetection": "force" in tsconfig/compilerOptions (https://github.com/ts-plus/typescript/pull/122)
+
 ## 0.0.64
 
 ### Patch Changes
