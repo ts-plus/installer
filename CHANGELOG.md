@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.64
+
+### Patch Changes
+
+- [`c8391b1`](https://github.com/ts-plus/installer/commit/c8391b1886eb2958cde1510c8efa8767346d4887) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Consider every program file as a module (https://github.com/ts-plus/typescript/pull/120)
+
 ## 0.0.63
 
 ### Patch Changes
