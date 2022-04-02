@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.66
+
+### Patch Changes
+
+- [`5fae54a`](https://github.com/ts-plus/installer/commit/5fae54a0019837802ead6cb42cc2ff17dfea03a1) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix remove global modules if transformed (https://github.com/ts-plus/typescript/pull/124)
+
 ## 0.0.65
 
 ### Patch Changes
