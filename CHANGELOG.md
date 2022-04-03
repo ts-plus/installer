@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.67
+
+### Patch Changes
+
+- [`75d1d9b`](https://github.com/ts-plus/installer/commit/75d1d9b93c6311e78ce6fb9fe786e48088b4f736) Thanks [@0x706b](https://github.com/0x706b)! - Fix: remove global imports if part of type node
+
 ## 0.0.66
 
 ### Patch Changes
