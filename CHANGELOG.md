@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.68
+
+### Patch Changes
+
+- [`95efde7`](https://github.com/ts-plus/installer/commit/95efde73e16cf1d72655f88d1adcf783f7d3c70c) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - TypeClass Derivation and Implicits, first alpha. (https://github.com/ts-plus/typescript/pull/121)
+
 ## 0.0.67
 
 ### Patch Changes
