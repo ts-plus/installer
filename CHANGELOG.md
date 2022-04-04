@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.70
+
+### Patch Changes
+
+- [`d9e3f18`](https://github.com/ts-plus/installer/commit/d9e3f18db5ce3e6cef8003abb054b787bf1cd37f) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix avoid using unions to check lazy arguments to avoid conflicts with unify (https://github.com/ts-plus/typescript/pull/128)
+
 ## 0.0.69
 
 ### Patch Changes
