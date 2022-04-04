@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.69
+
+### Patch Changes
+
+- [`660e963`](https://github.com/ts-plus/installer/commit/660e963cf18713fecf68d2c886f099c297e33401) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix local unique names in variable exports (https://github.com/ts-plus/typescript/pull/127)
+
 ## 0.0.68
 
 ### Patch Changes
