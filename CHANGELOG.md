@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.72
+
+### Patch Changes
+
+- [`97203e8`](https://github.com/ts-plus/installer/commit/97203e877e5060877b41aeda471ea1eb2c0898d9) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Improve union unification algorithm (https://github.com/ts-plus/typescript/pull/130)
+
 ## 0.0.71
 
 ### Patch Changes
