@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.71
+
+### Patch Changes
+
+- [`993ded0`](https://github.com/ts-plus/installer/commit/993ded0d58a5ae2820ed66b70c95e3b5dcc842e7) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix collect symbols from type if not found in base, revert lazy behaviour (https://github.com/ts-plus/typescript/pull/129)
+
 ## 0.0.70
 
 ### Patch Changes
