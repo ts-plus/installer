@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.74
+
+### Patch Changes
+
+- [`edbb3c1`](https://github.com/ts-plus/installer/commit/edbb3c13d1ab89df4d430a17bf3b2585243429c0) Thanks [@0x706b](https://github.com/0x706b)! - perf: avoid potentially recursive checking in `isTsPlusMacroCall`
+
 ## 0.0.73
 
 ### Patch Changes
