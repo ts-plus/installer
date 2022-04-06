@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.75
+
+### Patch Changes
+
+- [`838ec82`](https://github.com/ts-plus/installer/commit/838ec8224494c36f6ac275666e731e9fcadf301c) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Improve type unification of a unified type (https://github.com/ts-plus/typescript/pull/132)
+
 ## 0.0.74
 
 ### Patch Changes
