@@ -1,5 +1,13 @@
 # @tsplus/installer
 
+## 0.0.76
+
+### Patch Changes
+
+- [`c613b61`](https://github.com/ts-plus/installer/commit/c613b61117ebc96d9c26e16e68ce640737cc2fb2) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Cache tags and improve perf (https://github.com/ts-plus/typescript/pull/134)
+
+* [`c613b61`](https://github.com/ts-plus/installer/commit/c613b61117ebc96d9c26e16e68ce640737cc2fb2) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Improve tag collections for unions (https://github.com/ts-plus/typescript/pull/133)
+
 ## 0.0.75
 
 ### Patch Changes
