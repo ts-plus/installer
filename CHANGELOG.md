@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.77
+
+### Patch Changes
+
+- [`eb59fc9`](https://github.com/ts-plus/installer/commit/eb59fc939f8414eb59e91b2e9b90a678a2654168) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fixing collection of static variable declarations (https://github.com/ts-plus/typescript/pull/135)
+
 ## 0.0.76
 
 ### Patch Changes
