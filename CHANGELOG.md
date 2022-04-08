@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.79
+
+### Patch Changes
+
+- [`1a10ab8`](https://github.com/ts-plus/installer/commit/1a10ab8b0a6ceaf8dfc76e016fc4334734ac0763) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Improve collection of derivation rules (https://github.com/ts-plus/typescript/pull/139)
+
 ## 0.0.78
 
 ### Patch Changes
