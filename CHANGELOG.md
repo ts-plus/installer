@@ -1,5 +1,12 @@
 # @tsplus/installer
 
+## 0.0.78
+
+### Patch Changes
+
+- [`236dd27`](https://github.com/ts-plus/installer/commit/236dd27271ff0d25a946769d521223ed68c5edbb) Thanks [@0x706b](https://github.com/0x706b)! - fix: duplicate local unique name
+  fix: unannotated union inheritance
+
 ## 0.0.77
 
 ### Patch Changes
