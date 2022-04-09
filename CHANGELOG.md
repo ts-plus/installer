@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.81
+
+### Patch Changes
+
+- [`cd3172e`](https://github.com/ts-plus/installer/commit/cd3172ec6518f336e6f35a776d757933b6260e2e) Thanks [@0x706b](https://github.com/0x706b)! - fix: statics that are also types
+
 ## 0.0.80
 
 ### Patch Changes
