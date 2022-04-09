@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.80
+
+### Patch Changes
+
+- [`db38628`](https://github.com/ts-plus/installer/commit/db38628ac59cb01231b63c423158b673ab418472) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Allow scoping derivation rules to tags (https://github.com/ts-plus/typescript/pull/141)
+
 ## 0.0.79
 
 ### Patch Changes
