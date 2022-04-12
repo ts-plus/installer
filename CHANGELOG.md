@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.82
+
+### Patch Changes
+
+- [`75fb5d8`](https://github.com/ts-plus/installer/commit/75fb5d85efbdabaf0ed00a8d4efb9fe585cc33e8) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Rebase with microsoft/TypeScript
+
 ## 0.0.81
 
 ### Patch Changes
