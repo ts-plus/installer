@@ -1,5 +1,13 @@
 # @tsplus/installer
 
+## 0.0.83
+
+### Patch Changes
+
+- [`785a647`](https://github.com/ts-plus/installer/commit/785a64700d6a090b4d4ef53fbb2564f81b3bb5b5) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Improve checker initialization (https://github.com/ts-plus/typescript/pull/145)
+
+* [`2884f55`](https://github.com/ts-plus/installer/commit/2884f55eed9abeb71245367653b56888769b626f) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Begin improvements on chcker initialization via parser extensions (https://github.com/ts-plus/typescript/pull/146)
+
 ## 0.0.82
 
 ### Patch Changes
