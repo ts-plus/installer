@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.86
+
+### Patch Changes
+
+- [`9b5a308`](https://github.com/ts-plus/installer/commit/9b5a30852cc915acf376b00dfc89b81922c87058) Thanks [@0x706b](https://github.com/0x706b)! - fix: getter extension collection
+
 ## 0.0.85
 
 ### Patch Changes
