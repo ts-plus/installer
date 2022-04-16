@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.84
+
+### Patch Changes
+
+- [`534adb7`](https://github.com/ts-plus/installer/commit/534adb7b062a3a0312f5cf46c05c14852e920c0b) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Improve collection of tags and diagnostics
+
 ## 0.0.83
 
 ### Patch Changes
