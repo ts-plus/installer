@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.85
+
+### Patch Changes
+
+- [`ce127a5`](https://github.com/ts-plus/installer/commit/ce127a5f1e55ae2805a1d52bfe750adc43c730e9) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Optimize collection of tags per source file (https://github.com/ts-plus/typescript/pull/149)
+
 ## 0.0.84
 
 ### Patch Changes
