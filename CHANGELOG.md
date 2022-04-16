@@ -1,5 +1,13 @@
 # @tsplus/installer
 
+## 0.0.88
+
+### Patch Changes
+
+- [`317dbff`](https://github.com/ts-plus/installer/commit/317dbffdc8527a4940705cd8b8cfe5eb2d674c57) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Integrate Monadic Do with Tracing (https://github.com/ts-plus/typescript/pull/151)
+
+* [`5b47f86`](https://github.com/ts-plus/installer/commit/5b47f86b4ce9c5a8e3231e3ef07c1db9b80a1432) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix trace location in Monadic Do (https://github.com/ts-plus/typescript/pull/152)
+
 ## 0.0.87
 
 ### Patch Changes
