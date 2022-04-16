@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.87
+
+### Patch Changes
+
+- [`c604157`](https://github.com/ts-plus/installer/commit/c604157db4971651f0e99cda1c07ae05a963c5bf) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Monadic Do (https://github.com/ts-plus/typescript/pull/143)
+
 ## 0.0.86
 
 ### Patch Changes
