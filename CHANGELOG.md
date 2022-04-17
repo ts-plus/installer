@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.89
+
+### Patch Changes
+
+- [`100fdd4`](https://github.com/ts-plus/installer/commit/100fdd47a14cd090b3adf2741f5d59a12b2221fe) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Support LazyArg as a valid target for fluent extensions (https://github.com/ts-plus/typescript/pull/153)
+
 ## 0.0.88
 
 ### Patch Changes
