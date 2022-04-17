@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.91
+
+### Patch Changes
+
+- [`84533b7`](https://github.com/ts-plus/installer/commit/84533b7c8754165dca5e89feaf656683d3499ec7) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Support returning a bind operation in a monadic do (https://github.com/ts-plus/typescript/pull/155)
+
 ## 0.0.90
 
 ### Patch Changes
