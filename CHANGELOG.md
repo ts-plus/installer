@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.92
+
+### Patch Changes
+
+- [`260f366`](https://github.com/ts-plus/installer/commit/260f36646d0f50a349a882c59a4cae821eb20b2d) Thanks [@0x706b](https://github.com/0x706b)! - fix: tailrec transformer args
+
 ## 0.0.91
 
 ### Patch Changes
