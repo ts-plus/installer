@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.90
+
+### Patch Changes
+
+- [`3484a8c`](https://github.com/ts-plus/installer/commit/3484a8c48d18ae1e266e018fca50196d983b87e2) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix transformer for lazy fluent (https://github.com/ts-plus/typescript/pull/154)
+
 ## 0.0.89
 
 ### Patch Changes
