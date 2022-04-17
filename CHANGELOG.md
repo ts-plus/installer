@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.93
+
+### Patch Changes
+
+- [`bcb2eb7`](https://github.com/ts-plus/installer/commit/bcb2eb798d61a0059f87771e79a9d9c8f67e9f3e) Thanks [@0x706b](https://github.com/0x706b)! - fix: avoid double-checking bound return in do
+
 ## 0.0.92
 
 ### Patch Changes
