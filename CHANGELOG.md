@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.94
+
+### Patch Changes
+
+- [`1457fee`](https://github.com/ts-plus/installer/commit/1457feed20f373aabb847ef5f795a2fccfa36aec) Thanks [@0x706b](https://github.com/0x706b)! - fix: check original expression for fluent lazy transformer
+
 ## 0.0.93
 
 ### Patch Changes
