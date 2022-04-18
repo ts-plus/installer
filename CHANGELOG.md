@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.95
+
+### Patch Changes
+
+- [`30a0329`](https://github.com/ts-plus/installer/commit/30a032981e33c1eb7a4a06469c2dea1e324caaac) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix checking of Do (https://github.com/ts-plus/typescript/pull/159)
+
 ## 0.0.94
 
 ### Patch Changes
