@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.97
+
+### Patch Changes
+
+- [`c2d97a3`](https://github.com/ts-plus/installer/commit/c2d97a3c36c3c866613639c571bc6dd08077f947) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix operators (https://github.com/ts-plus/typescript/pull/163)
+
 ## 0.0.96
 
 ### Patch Changes
