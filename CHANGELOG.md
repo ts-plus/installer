@@ -1,5 +1,17 @@
 # @tsplus/installer
 
+## 0.0.96
+
+### Patch Changes
+
+- [`825f043`](https://github.com/ts-plus/installer/commit/825f043240ae822924532b20f895849074d06106) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Improve TypeReference Hash (https://github.com/ts-plus/typescript/pull/147)
+
+* [`825f043`](https://github.com/ts-plus/installer/commit/825f043240ae822924532b20f895849074d06106) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Restructure Operators to better accomodate pipe-like (https://github.com/ts-plus/typescript/pull/162)
+
+- [`825f043`](https://github.com/ts-plus/installer/commit/825f043240ae822924532b20f895849074d06106) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Improve Unification (https://github.com/ts-plus/typescript/pull/161)
+
+* [`825f043`](https://github.com/ts-plus/installer/commit/825f043240ae822924532b20f895849074d06106) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Update with TS/main to 22/04/2022
+
 ## 0.0.95
 
 ### Patch Changes
