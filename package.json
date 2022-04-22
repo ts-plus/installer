@@ -1,6 +1,6 @@
 {
   "name": "@tsplus/installer",
-  "version": "0.0.95",
+  "version": "0.0.96",
   "repository": "https://github.com/ts-plus/installer.git",
   "author": "Michael Arnaldi <arnaldimichael@gmail.com>",
   "license": "MIT",
