@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.98
+
+### Patch Changes
+
+- [`466bf7a`](https://github.com/ts-plus/installer/commit/466bf7a2c2395f09abda97c292a2667a4ffaf46d) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Check binary expression eagerly when possible (https://github.com/ts-plus/typescript/pull/164)
+
 ## 0.0.97
 
 ### Patch Changes
