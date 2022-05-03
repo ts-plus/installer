@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.99
+
+### Patch Changes
+
+- [`66252f9`](https://github.com/ts-plus/installer/commit/66252f91f4536d6fbff41195042b2a622b24b092) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix interaction between Operators and Do (https://github.com/ts-plus/typescript/pull/165)
+
 ## 0.0.98
 
 ### Patch Changes
