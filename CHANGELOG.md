@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.100
+
+### Patch Changes
+
+- [`29bb34c`](https://github.com/ts-plus/installer/commit/29bb34c073655997ab678e736e06fd278771795e) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix circulatiry in union type inference (https://github.com/ts-plus/typescript/pull/166)
+
 ## 0.0.99
 
 ### Patch Changes
