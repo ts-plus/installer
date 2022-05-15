@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.101
+
+### Patch Changes
+
+- [`5cc5957`](https://github.com/ts-plus/installer/commit/5cc5957d550b1d50a10bf9e6a34e0089e985d941) Thanks [@0x706b](https://github.com/0x706b)! - feat: auto-derivation
+
 ## 0.0.100
 
 ### Patch Changes
