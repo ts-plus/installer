@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.102
+
+### Patch Changes
+
+- [`45e6413`](https://github.com/ts-plus/installer/commit/45e6413ae12c7398fbef96b9a200e0de7b17aa43) Thanks [@0x706b](https://github.com/0x706b)! - Derivation bugfixes
+
 ## 0.0.101
 
 ### Patch Changes
