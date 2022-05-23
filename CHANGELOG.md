@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.103
+
+### Patch Changes
+
+- [`baa2559`](https://github.com/ts-plus/installer/commit/baa25598c109713ec5a00770972ca18fe237ca67) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Rebase with commits from microsoft/TypeScript 23-05-2022
+
 ## 0.0.102
 
 ### Patch Changes
