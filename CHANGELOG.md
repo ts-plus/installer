@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.105
+
+### Patch Changes
+
+- [`7d78856`](https://github.com/ts-plus/installer/commit/7d78856469cee2fa1147d7bd8eafbdefbf7ef8bc) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix type-only namespace global imports (https://github.com/ts-plus/typescript/pull/171)
+
 ## 0.0.104
 
 ### Patch Changes
