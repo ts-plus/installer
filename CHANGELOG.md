@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.104
+
+### Patch Changes
+
+- [`e3a44cf`](https://github.com/ts-plus/installer/commit/e3a44cfc77fd7e19eb300d53886df4fa8b425217) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix compilation error getGlobalBigIntType(false) to getGlobalBigIntType()
+
 ## 0.0.103
 
 ### Patch Changes
