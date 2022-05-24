@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.106
+
+### Patch Changes
+
+- [`6212887`](https://github.com/ts-plus/installer/commit/6212887c4832e809e7847560a00b55011fd42664) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix missing global import (https://github.com/ts-plus/typescript/pull/172)
+
 ## 0.0.105
 
 ### Patch Changes
