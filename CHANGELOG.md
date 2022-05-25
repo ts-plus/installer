@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.107
+
+### Patch Changes
+
+- [`2abc4bd`](https://github.com/ts-plus/installer/commit/2abc4bd73e5d50e0f4fbddd55ff918dd3d1c7f76) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Update release with commits up to 25/05/2022
+
 ## 0.0.106
 
 ### Patch Changes
