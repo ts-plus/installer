@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.108
+
+### Patch Changes
+
+- [`0a93fb0`](https://github.com/ts-plus/installer/commit/0a93fb033970549ab83301d8d240433c3e791350) Thanks [@0x706b](https://github.com/0x706b)! - feat: support getter identity macro
+
 ## 0.0.107
 
 ### Patch Changes
