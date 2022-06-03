@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.109
+
+### Patch Changes
+
+- [`200d9c2`](https://github.com/ts-plus/installer/commit/200d9c2bfa05b574b608fbe8dc2c915d9f7fa6d6) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Update release with ts/main commits and various improvements
+
 ## 0.0.108
 
 ### Patch Changes
