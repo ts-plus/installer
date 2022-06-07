@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.110
+
+### Patch Changes
+
+- [`dbf3495`](https://github.com/ts-plus/installer/commit/dbf3495dce12141bffe2504cf9363a062e537855) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix Pipeable for dependent generics and fix misplaced self lookup (https://github.com/ts-plus/typescript/pull/180)
+
 ## 0.0.109
 
 ### Patch Changes
