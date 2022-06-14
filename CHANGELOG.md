@@ -1,5 +1,12 @@
 # @tsplus/installer
 
+## 0.0.111
+
+### Patch Changes
+
+- [`1ef21ba`](https://github.com/ts-plus/installer/commit/1ef21ba4782d7cff42b6769a4a58d52e1ef8d25a) Thanks [@0x706b](https://github.com/0x706b)! - feat: support findAllReferences for extensions
+  fix: go to correct definition of operator lhs
+
 ## 0.0.110
 
 ### Patch Changes
