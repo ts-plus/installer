@@ -1,5 +1,13 @@
 # @tsplus/installer
 
+## 0.0.113
+
+### Patch Changes
+
+- [`83df03c`](https://github.com/ts-plus/installer/commit/83df03cdaf5b0f7548945cecdf369c40159f6ad4) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Add diagnostic for never type in LazyArgument (https://github.com/ts-plus/typescript/pull/187)
+
+* [`1d78660`](https://github.com/ts-plus/installer/commit/1d78660956373ecd6d5adfd48c335f9e27106386) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Support global imports in plain TS files (https://github.com/ts-plus/typescript/pull/188)
+
 ## 0.0.112
 
 ### Patch Changes
