@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.112
+
+### Patch Changes
+
+- [`c03f610`](https://github.com/ts-plus/installer/commit/c03f6100297a32bbf8d0eb4fb4f8dcd375e007e4) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Update with commits from TS/main
+
 ## 0.0.111
 
 ### Patch Changes
