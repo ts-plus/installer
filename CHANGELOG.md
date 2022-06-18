@@ -1,5 +1,12 @@
 # @tsplus/installer
 
+## 0.0.114
+
+### Patch Changes
+
+- [`8eef060`](https://github.com/ts-plus/installer/commit/8eef0604472f30c44fe2960510c34d116916c28b) Thanks [@0x706b](https://github.com/0x706b)! - fix: incorrect getter goToDefinition and hover
+  feat: support traced getters
+
 ## 0.0.113
 
 ### Patch Changes
