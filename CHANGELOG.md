@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.115
+
+### Patch Changes
+
+- [`fd69d27`](https://github.com/ts-plus/installer/commit/fd69d27a0cad28fb6938575399c863cd30b0f360) Thanks [@0x706b](https://github.com/0x706b)! - chore: turn on debugging in replay.io
+
 ## 0.0.114
 
 ### Patch Changes
