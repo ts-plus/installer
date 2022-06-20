@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.116
+
+### Patch Changes
+
+- [`e10cb60`](https://github.com/ts-plus/installer/commit/e10cb6026bf7a2505f838aabb9a89e552dcd4452) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Escape keys in object derivation (https://github.com/ts-plus/typescript/pull/194)
+
 ## 0.0.115
 
 ### Patch Changes
