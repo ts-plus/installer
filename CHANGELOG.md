@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.117
+
+### Patch Changes
+
+- [`0abc4ec`](https://github.com/ts-plus/installer/commit/0abc4ecc5c1513205f0a4e9017fb84a11a09b2a3) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Improved Derivation & Bugfixes (https://github.com/ts-plus/typescript/pull/179)
+
 ## 0.0.116
 
 ### Patch Changes
