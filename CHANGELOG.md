@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.118
+
+### Patch Changes
+
+- [`a939c76`](https://github.com/ts-plus/installer/commit/a939c768e108a7464409c22675109748e7b3a72b) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix Watch Mode and Rebase to TS/main (https://github.com/ts-plus/typescript/pull/197)
+
 ## 0.0.117
 
 ### Patch Changes
