@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.119
+
+### Patch Changes
+
+- [`4d7e215`](https://github.com/ts-plus/installer/commit/4d7e21531560966c8610deb842cac18241431d34) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix Watch Mode (https://github.com/ts-plus/typescript/pull/198)
+
 ## 0.0.118
 
 ### Patch Changes
