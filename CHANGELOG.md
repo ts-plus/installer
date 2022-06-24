@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.120
+
+### Patch Changes
+
+- [`506907b`](https://github.com/ts-plus/installer/commit/506907b91b03ed85e73f1c94f23574c683f79d93) Thanks [@0x706b](https://github.com/0x706b)! - fix: intersection collection
+
 ## 0.0.119
 
 ### Patch Changes
