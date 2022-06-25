@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.121
+
+### Patch Changes
+
+- [`d7ed5f1`](https://github.com/ts-plus/installer/commit/d7ed5f1c5953105c873920f1f4fe16abbb4c5daa) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix Do when map-flatMap are pipeable (https://github.com/ts-plus/typescript/pull/203)
+
 ## 0.0.120
 
 ### Patch Changes
