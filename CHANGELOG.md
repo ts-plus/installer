@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.123
+
+### Patch Changes
+
+- [`e70888a`](https://github.com/ts-plus/installer/commit/e70888a83583a9bf7649a2852f8a1df02f40b877) Thanks [@0x706b](https://github.com/0x706b)! - fix: don't override fluent with pipeable
+
 ## 0.0.122
 
 ### Patch Changes
