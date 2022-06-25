@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.122
+
+### Patch Changes
+
+- [`237e67d`](https://github.com/ts-plus/installer/commit/237e67d50d3533b26fcc98b254cbc840b37d5dd5) Thanks [@0x706b](https://github.com/0x706b)! - Pipeable Parity
+
 ## 0.0.121
 
 ### Patch Changes
