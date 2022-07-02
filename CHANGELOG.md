@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.124
+
+### Patch Changes
+
+- [`6cbb165`](https://github.com/ts-plus/installer/commit/6cbb16563c7ee4d0cc60f5017659830f4441bce8) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Improve Watch Mode and Fix Missing Import Annotations (https://github.com/ts-plus/typescript/pull/209)
+
 ## 0.0.123
 
 ### Patch Changes
