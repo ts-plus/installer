@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.125
+
+### Patch Changes
+
+- [`8242df2`](https://github.com/ts-plus/installer/commit/8242df2614a4872888289e795917cf2b1ec4115d) Thanks [@0x706b](https://github.com/0x706b)! - fix: getter macros
+
 ## 0.0.124
 
 ### Patch Changes
