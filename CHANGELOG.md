@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.126
+
+### Patch Changes
+
+- [`326e290`](https://github.com/ts-plus/installer/commit/326e290153b45a160362ada6dd3b0577df4b051d) Thanks [@0x706b](https://github.com/0x706b)! - fix: pipeable return type
+
 ## 0.0.125
 
 ### Patch Changes
