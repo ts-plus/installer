@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.127
+
+### Patch Changes
+
+- [`c30f63a`](https://github.com/ts-plus/installer/commit/c30f63a625a47e9220b645f093971c536650099e) Thanks [@0x706b](https://github.com/0x706b)! - feat: add tsconfig option to disable tsplus
+
 ## 0.0.126
 
 ### Patch Changes
