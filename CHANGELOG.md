@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.128
+
+### Patch Changes
+
+- [`d17bc80`](https://github.com/ts-plus/installer/commit/d17bc80f3afc5a18c0075bad3392e17f86308db9) Thanks [@0x706b](https://github.com/0x706b)! - feat: add no-inherit pragma
+
 ## 0.0.127
 
 ### Patch Changes
