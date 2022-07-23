@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.129
+
+### Patch Changes
+
+- [`e20f866`](https://github.com/ts-plus/installer/commit/e20f866af01ee1a8099b0fdcf19c4b90551d2cef) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Rebase on Microsoft/TypeScript up to 23-07-2022
+
 ## 0.0.128
 
 ### Patch Changes
