@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.132
+
+### Patch Changes
+
+- [`5ce4546`](https://github.com/ts-plus/installer/commit/5ce45464ae5856b838897870167c9e07d9a5623d) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix unification of function calls (https://github.com/ts-plus/typescript/pull/220)
+
 ## 0.0.131
 
 ### Patch Changes
