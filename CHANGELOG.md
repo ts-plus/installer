@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.131
+
+### Patch Changes
+
+- [`d4e79ba`](https://github.com/ts-plus/installer/commit/d4e79ba5f08a4cbba7e0395557208df7b3ae8402) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix Type Unification (https://github.com/ts-plus/typescript/pull/218) and Rebase
+
 ## 0.0.130
 
 ### Patch Changes
