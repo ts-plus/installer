@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.130
+
+### Patch Changes
+
+- [`e0e742b`](https://github.com/ts-plus/installer/commit/e0e742b37d0d6ce1ac13b371f868d476972660c7) Thanks [@0x706b](https://github.com/0x706b)! - fix: transform base case return args
+
 ## 0.0.129
 
 ### Patch Changes
