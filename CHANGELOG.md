@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.134
+
+### Patch Changes
+
+- [`cfac2b9`](https://github.com/ts-plus/installer/commit/cfac2b97d0993ad5cf398aec77c5a5a893ea5bb5) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix destructuring in Do, avoid loops in operators where the right side errors
+
 ## 0.0.133
 
 ### Patch Changes
