@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.135
+
+### Patch Changes
+
+- [`c87762a`](https://github.com/ts-plus/installer/commit/c87762aa6009f35b8dba25e9893e0954005c2319) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix Error Reporting on Operators
+
 ## 0.0.134
 
 ### Patch Changes
