@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.136
+
+### Patch Changes
+
+- [`c24b29c`](https://github.com/ts-plus/installer/commit/c24b29c6a35bfdfb5abcf824b0aeb7e8c1b6a82e) Thanks [@0x706b](https://github.com/0x706b)! - feat: add support for transformer plugins
+
 ## 0.0.135
 
 ### Patch Changes
