@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.137
+
+### Patch Changes
+
+- [`ec46828`](https://github.com/ts-plus/installer/commit/ec46828a06946a2e7bd35b30c0a973becbf92c41) Thanks [@0x706b](https://github.com/0x706b)! - chore: republish
+
 ## 0.0.136
 
 ### Patch Changes
