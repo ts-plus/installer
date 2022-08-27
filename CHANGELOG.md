@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.138
+
+### Patch Changes
+
+- [`9793567`](https://github.com/ts-plus/installer/commit/97935671c1c7fd97db63670da498a2f3f60bc4b3) Thanks [@0x706b](https://github.com/0x706b)! - chore: undo rebase
+
 ## 0.0.137
 
 ### Patch Changes
