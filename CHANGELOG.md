@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.139
+
+### Patch Changes
+
+- [`4312f17`](https://github.com/ts-plus/installer/commit/4312f17fe70936548e51f312e92cf5c7e231084a) Thanks [@0x706b](https://github.com/0x706b)! - fix: pipeable validity based on type node
+
 ## 0.0.138
 
 ### Patch Changes
