@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.141
+
+### Patch Changes
+
+- [`73286fe`](https://github.com/ts-plus/installer/commit/73286fe7645715cab73618352b3d793fe97ee576) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Rebase to TS/main 27/09/2022
+
 ## 0.0.140
 
 ### Patch Changes
