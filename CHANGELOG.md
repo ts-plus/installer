@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.145
+
+### Patch Changes
+
+- [`c2760c7`](https://github.com/ts-plus/installer/commit/c2760c72c0a2bae09c9592acab67ade26a10916d) Thanks [@0x706b](https://github.com/0x706b)! - fix: support transformers array
+
 ## 0.0.144
 
 ### Patch Changes
