@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.144
+
+### Patch Changes
+
+- [`ac4aa3f`](https://github.com/ts-plus/installer/commit/ac4aa3f9022fda1509fe27410fdc3bdc18ed784a) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Fix transformers
+
 ## 0.0.143
 
 ### Patch Changes
