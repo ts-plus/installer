@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.146
+
+### Patch Changes
+
+- [`e168626`](https://github.com/ts-plus/installer/commit/e1686269c742284ef710d2fc6e27e2159a9a5262) Thanks [@0x706b](https://github.com/0x706b)! - feat: allow class declaration as static extension
+
 ## 0.0.145
 
 ### Patch Changes
