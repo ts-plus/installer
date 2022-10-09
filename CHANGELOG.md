@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.147
+
+### Patch Changes
+
+- [`322de4b`](https://github.com/ts-plus/installer/commit/322de4b700fffa5e5e4e4e38244142ad7cc10515) Thanks [@0x706b](https://github.com/0x706b)! - feat: allow pipeable call extensions
+
 ## 0.0.146
 
 ### Patch Changes
