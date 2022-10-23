@@ -1,5 +1,13 @@
 # @tsplus/installer
 
+## 0.0.148
+
+### Patch Changes
+
+- [`e3424fd`](https://github.com/ts-plus/installer/commit/e3424fd4b780b963e7bd62096a262034362951e8) Thanks [@0x706b](https://github.com/0x706b)! - fix: remove debugger statement
+
+* [`a771f6f`](https://github.com/ts-plus/installer/commit/a771f6f3b45246b5d11a9240a3b3e73800010916) Thanks [@0x706b](https://github.com/0x706b)! - fix: emit all jsdoc comments in declaration files
+
 ## 0.0.147
 
 ### Patch Changes
