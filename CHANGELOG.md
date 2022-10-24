@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.149
+
+### Patch Changes
+
+- [`cef4cd5`](https://github.com/ts-plus/installer/commit/cef4cd5799199885bb989b8a9ee4e3aebcaa8245) Thanks [@0x706b](https://github.com/0x706b)! - feat: add support for JSON encoded annotations
+
 ## 0.0.148
 
 ### Patch Changes
