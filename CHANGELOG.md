@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.150
+
+### Patch Changes
+
+- [`b738213`](https://github.com/ts-plus/installer/commit/b738213f3544da1553ad8ccc0f819fa1ea37f455) Thanks [@0x706b](https://github.com/0x706b)! - fix: don't mark invalid symbols as companion objects
+
 ## 0.0.149
 
 ### Patch Changes
