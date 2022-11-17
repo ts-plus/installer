@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.152
+
+### Patch Changes
+
+- [`7180fa0`](https://github.com/ts-plus/installer/commit/7180fa0a3096956a666ecd232c78d40ac5f6f35c) Thanks [@0x706b](https://github.com/0x706b)! - fix: add ts-node as an external module
+
 ## 0.0.151
 
 ### Patch Changes
