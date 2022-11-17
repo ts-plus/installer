@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.151
+
+### Patch Changes
+
+- [`ecfafe6`](https://github.com/ts-plus/installer/commit/ecfafe6a439071e3a438557be77b0beb92efe926) Thanks [@0x706b](https://github.com/0x706b)! - chore: rebase onto microsoft/main
+
 ## 0.0.150
 
 ### Patch Changes
