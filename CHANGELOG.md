@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.153
+
+### Patch Changes
+
+- [`6c3b814`](https://github.com/ts-plus/installer/commit/6c3b81487df64c9dd6658cc28f5b576e73b41bb4) Thanks [@0x706b](https://github.com/0x706b)! - fix: use node 16
+
 ## 0.0.152
 
 ### Patch Changes
