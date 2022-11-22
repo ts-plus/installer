@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.155
+
+### Patch Changes
+
+- [`265bc81`](https://github.com/ts-plus/installer/commit/265bc817f9d13174f198400f6b2fdb880e101dd3) Thanks [@0x706b](https://github.com/0x706b)! - fix: services namespace
+
 ## 0.0.154
 
 ### Patch Changes
