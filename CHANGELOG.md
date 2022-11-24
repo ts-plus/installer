@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.156
+
+### Patch Changes
+
+- [`620427a`](https://github.com/ts-plus/installer/commit/620427ac77f81297a0c0e9bf946ac5ced9d73a01) Thanks [@0x706b](https://github.com/0x706b)! - fix: type companion global imports
+
 ## 0.0.155
 
 ### Patch Changes
