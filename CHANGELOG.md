@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.157
+
+### Patch Changes
+
+- [`efb72a2`](https://github.com/ts-plus/installer/commit/efb72a249e74e8a48d373181fbc60ac1afd37477) Thanks [@0x706b](https://github.com/0x706b)! - fix: multiple tsplus definitions
+
 ## 0.0.156
 
 ### Patch Changes
