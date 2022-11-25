@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.158
+
+### Patch Changes
+
+- [`40d974e`](https://github.com/ts-plus/installer/commit/40d974eed98a658fcba173e5c3c66e0d434cfb47) Thanks [@0x706b](https://github.com/0x706b)! - fix: multiple tsplus definitions package
+
 ## 0.0.157
 
 ### Patch Changes
