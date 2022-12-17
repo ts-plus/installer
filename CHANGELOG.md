@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.160
+
+### Patch Changes
+
+- [`c35f6cd`](https://github.com/ts-plus/installer/commit/c35f6cdb086066d9154fdcc18d6d48ce4498f05a) Thanks [@0x706b](https://github.com/0x706b)! - chore: rebase onto microsoft/main
+
 ## 0.0.159
 
 ### Patch Changes
