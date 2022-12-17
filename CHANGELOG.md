@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.161
+
+### Patch Changes
+
+- [`bb02e37`](https://github.com/ts-plus/installer/commit/bb02e373e4f19a09bfb3755c08e87f65d0e14e7d) Thanks [@0x706b](https://github.com/0x706b)! - fix: check for node existence
+
 ## 0.0.160
 
 ### Patch Changes
