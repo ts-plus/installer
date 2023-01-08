@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.162
+
+### Patch Changes
+
+- [`167c451`](https://github.com/ts-plus/installer/commit/167c451d9c7f07c135d64bcf3de3c65d7b978fd3) Thanks [@0x706b](https://github.com/0x706b)! - fix: multiple fixes for supporting external annotations
+
 ## 0.0.161
 
 ### Patch Changes
