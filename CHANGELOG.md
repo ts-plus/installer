@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.163
+
+### Patch Changes
+
+- [`07056ea`](https://github.com/ts-plus/installer/commit/07056eaefe946370e32e98d14bad18541ad62b66) Thanks [@0x706b](https://github.com/0x706b)! - fix: add original node to nested call expression
+
 ## 0.0.162
 
 ### Patch Changes
