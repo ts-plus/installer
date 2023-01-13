@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.164
+
+### Patch Changes
+
+- [`6711253`](https://github.com/ts-plus/installer/commit/6711253c6d3450352f5e132149660d718c38bd68) Thanks [@0x706b](https://github.com/0x706b)! - fix: cache tsplus paths per package name
+
 ## 0.0.163
 
 ### Patch Changes
