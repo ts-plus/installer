@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.168
+
+### Patch Changes
+
+- [`2d7bd32`](https://github.com/ts-plus/installer/commit/2d7bd32da5cf86b7c2735b69339d4e9804232770) Thanks [@0x706b](https://github.com/0x706b)! - chore: remove debugger
+
 ## 0.0.167
 
 ### Patch Changes
