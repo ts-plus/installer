@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.166
+
+### Patch Changes
+
+- [`bf92c4f`](https://github.com/ts-plus/installer/commit/bf92c4f14bf3680379ffafe199fcbc2785982b9b) Thanks [@0x706b](https://github.com/0x706b)! - fix: pipeable-operator overloads
+
 ## 0.0.165
 
 ### Patch Changes
