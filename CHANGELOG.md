@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.169
+
+### Patch Changes
+
+- [`ebfaad7`](https://github.com/ts-plus/installer/commit/ebfaad7031a830f99f0e0e95159ba9b97cb66ce6) Thanks [@0x706b](https://github.com/0x706b)! - fix: rename
+
 ## 0.0.168
 
 ### Patch Changes
