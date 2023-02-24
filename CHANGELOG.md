@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.171
+
+### Patch Changes
+
+- [`3ee38a2`](https://github.com/ts-plus/installer/commit/3ee38a2d5efef4eda7dd6b1b326606d2ff64c98e) Thanks [@0x706b](https://github.com/0x706b)! - fix: disable extensions in optional chain
+
 ## 0.0.170
 
 ### Patch Changes
