@@ -1,5 +1,13 @@
 # @tsplus/installer
 
+## 0.0.172
+
+### Patch Changes
+
+- [`b49fd76`](https://github.com/ts-plus/installer/commit/b49fd7673042f1a60c50efee1e99e58b29da53c6) Thanks [@0x706b](https://github.com/0x706b)! - feat: allow extensions on class object
+
+* [`3fca688`](https://github.com/ts-plus/installer/commit/3fca6883fe9ea39940aad7bf4f4cb62cf4434997) Thanks [@0x706b](https://github.com/0x706b)! - chore: rebase on latest upstream
+
 ## 0.0.171
 
 ### Patch Changes
