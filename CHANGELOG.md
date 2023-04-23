@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.176
+
+### Patch Changes
+
+- [`feb41e9`](https://github.com/ts-plus/installer/commit/feb41e9af6b3de470a98bd91c8508daaeca683f0) Thanks [@0x706b](https://github.com/0x706b)! - fix: defer inheritance collection more
+
 ## 0.0.175
 
 ### Patch Changes
