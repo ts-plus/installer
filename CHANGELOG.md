@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.174
+
+### Patch Changes
+
+- [`850f580`](https://github.com/ts-plus/installer/commit/850f580043ef46e252381c1f166054153d7e12ee) Thanks [@0x706b](https://github.com/0x706b)! - fix: defer type and companion evaluation
+
 ## 0.0.173
 
 ### Patch Changes
