@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.181
+
+### Patch Changes
+
+- [`07b8d2d`](https://github.com/ts-plus/installer/commit/07b8d2de3b83a8819a20c62a3ed56b0c1cc6ebb4) Thanks [@0x706b](https://github.com/0x706b)! - fix: rebase error
+
 ## 0.0.180
 
 ### Patch Changes
