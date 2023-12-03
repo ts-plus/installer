@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.182
+
+### Patch Changes
+
+- [`054ea33`](https://github.com/ts-plus/installer/commit/054ea33a83cfd93ad77e4216fae4e015c8e50c2a) Thanks [@0x706b](https://github.com/0x706b)! - chore: rebase
+
 ## 0.0.181
 
 ### Patch Changes
