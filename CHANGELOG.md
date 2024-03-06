@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.183
+
+### Patch Changes
+
+- [`1f46f48`](https://github.com/ts-plus/installer/commit/1f46f48a7b39ebca130929b7bf1caed5c25c6ab4) Thanks [@0x706b](https://github.com/0x706b)! - rebase on latest upstream
+
 ## 0.0.182
 
 ### Patch Changes
