@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.185
+
+### Patch Changes
+
+- [`fb658cc`](https://github.com/ts-plus/installer/commit/fb658cc8619d17de3843e4aae1711878f33f7f4e) Thanks [@0x706b](https://github.com/0x706b)! - fix: tsplus transformer cannot find fluent call signature
+
 ## 0.0.184
 
 ### Patch Changes
